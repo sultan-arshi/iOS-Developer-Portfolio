@@ -58,7 +58,7 @@ In the AsthmaTuner app, my role as an iOS developer involved implementing crucia
 #### TECNOLGES:
 
 - Swift4
--  JAVA
+  
 
 
 <p align="center">
